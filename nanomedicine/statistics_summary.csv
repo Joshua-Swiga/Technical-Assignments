@@ -1,0 +1,6 @@
+Variable,R²,p-value
+Drug Encapsulation Efficiency vs. Drug Efficacy,0.9881956860039453,7.720515125577903e-193
+Clearance Rate vs. Drug Efficacy,0.9801672968471883,1.5782446825855739e-170
+Targeting Precision vs. Drug Efficacy,0.9743397857300639,1.8854468931868502e-159
+Volume of Distribution vs. Drug Efficacy,0.9867357195425506,7.972883262106605e-188
+Blood Flow Rate vs. Drug Efficacy,0.9871505218790291,3.4316469517244563e-189
